@@ -6,8 +6,8 @@ local Fluent = loadstring(game:HttpGet(
 -- Creating a Window:
 
 local Window = Fluent:CreateWindow({
-   Title       = "Fluent " .. Fluent.Version,    -- Shows the current Fluent version.
-   SubTitle    = "by dawid",                     -- Just text next to the title.
+   Title       = "StormHub " .. Fluent.Version,    -- Shows the current Fluent version.
+   SubTitle    = "by StormJasterz",                     -- Just text next to the title.
    TabWidth    = 200,                            -- The thickness of the side bar. (Recommended: 160-180)
    Size        = UDim2.fromOffset(625, 560),     -- The size of the window. (Recommended: 625, 560 -> For Mobile: 626, 560 / 1.5)
    Acrylic     = false,                          -- Gaussian blur, may be detectable. (Recommended: false)
